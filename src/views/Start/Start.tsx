@@ -93,7 +93,7 @@ const Start: React.FC = () => {
         />
         <Container size="lg">
           <Box row justifyContent="center">
-            <Button text="Buy Token" to="/dashboard" />
+            <Button text="Buy Token" href="https://pancakeswap.finance/swap?outputCurrency=0x9C004e1c67c8030dCB2f0A241f10209D69E012B6" />
             <Spacer />
             <Button text="Join the Community" href="https://t.me/DefiLionToken" variant="secondary" />
           </Box>
